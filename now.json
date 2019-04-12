@@ -4,5 +4,5 @@
     "builds": [
         { "src": "package.json", "use": "@now/static-build", "config": {"distDir": "public"} }
     ],
-    alias:'manishjohar.now.sh'
+    "alias":"manishjohar.now.sh"
 }
